@@ -1,3 +1,5 @@
+[博客地址：Studio 精品插件推荐](https://www.jianshu.com/p/54bfd9e4d24c)
+
 #### Java 代码约束插件
 
 * 插件名称：[Alibaba Java Coding Guidelines](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines)
