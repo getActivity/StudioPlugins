@@ -38,6 +38,16 @@
 
 ![](AndroidParcelableCodeGenerator.gif)
 
+#### 英文翻译插件
+
+* 插件名称：[ECTranslation](https://plugins.jetbrains.com/plugin/8469-ectranslation)
+
+* 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要换上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
+
+* 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项）
+
+![](ECTranslation.gif)
+
 #### 快速安装方式
 
 * 下载好插件，选择 `Settings` -> `Plugins`  -> `Install Plugin from Disk` 进行安装
