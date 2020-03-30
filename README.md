@@ -20,15 +20,25 @@
 
 ![](AndroidDrawablePreview.gif)
 
-#### Json 转 Bean 插件
+#### Json 转 Java Bean 插件
 
 * 插件名称：[GsonFormat](https://plugins.jetbrains.com/plugin/7654-gsonformat)
 
-* 插件简介：这是一款能够帮助我们将后台返回的 json 转换成 Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
+* 插件简介：这是一款能够帮助我们将后台返回的 Json 转换成 Java Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
 
-* 插件文档：在 Bean 类中右击，选择 `Generate` -> `GsonFormat`，输入后台返回的 Json 数据即可转换成 Bean 类中的字段。
+* 插件文档：在 Bean 类中右击，选择 `Generate` -> `GsonFormat`，输入后台返回的 Json 数据即可转换成 Java Bean。
 
 ![](GsonFormat.gif)
+
+#### Json 转 Kotlin Bean 插件
+
+* 插件名称：[JSON To Kotlin Class](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+
+* 插件简介：这是一款能够帮助我们将后台返回的 Json 转换成 Kotlin Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
+
+* 插件文档：在 Bean 类中右击，选择 `Generate` -> `Convert Json Into Kotlin Class`，输入后台返回的 Json 数据即可转换成 Kotlin Bean。
+
+![](JSONToKotlinClass.gif)
 
 #### Parcelable 序列化插件
 
@@ -49,6 +59,16 @@
 * 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项）
 
 ![](ECTranslation.gif)
+
+#### Json 格式化插件
+
+* 插件名称：[JsonViewer](https://plugins.jetbrains.com/plugin/9679-json-viewer)
+
+* 插件简介：当日志打印的 Json 没有经过格式化的时候，我们 Review 起来会非常困难，这时可以利用这款插件对 Json 文本进行格式化，相比我们去网页格式化，这种方式极大提高了我们的效率
+
+* 插件文档：不需要任何快捷键，只需要找到 Studio 窗口最右边，即可找到 `Json Viewer` 选项，点击即可
+
+![](JsonViewer.png)
 
 #### 快速安装方式
 
