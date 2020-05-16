@@ -1,4 +1,6 @@
-[博客地址：Studio 精品插件推荐](https://www.jianshu.com/p/54bfd9e4d24c)
+> 码云地址：[Gitee](https://gitee.com/getActivity/StudioPlugins)
+
+> [博客地址：Studio 精品插件推荐](https://www.jianshu.com/p/54bfd9e4d24c)
 
 #### Java 代码约束插件
 
@@ -69,6 +71,16 @@
 * 插件文档：不需要任何快捷键，只需要找到 Studio 窗口最右边，即可找到 `Json Viewer` 选项，点击即可
 
 ![](JsonViewer.png)
+
+#### Google 仓库依赖插件
+
+* 插件名称：[GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
+
+* 插件简介：一款Android Studio插件，帮助你快速添加 Google 依赖库和查询历史版本
+
+* 插件文档：在 Gradle 中输入想要添加的仓库名称即可联想到对应的依赖库，鼠标右击选择 `Query Available Versions` 可查询这个依赖库的历史版本
+
+![](GoogleLibraryVersionQuerier.gif)
 
 #### 快速安装方式
 
