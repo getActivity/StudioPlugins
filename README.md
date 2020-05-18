@@ -72,11 +72,11 @@
 
 ![](JsonViewer.png)
 
-#### Google 仓库依赖插件
+#### 远程仓库依赖插件
 
 * 插件名称：[GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
 
-* 插件简介：一款Android Studio插件，帮助你快速添加 Google 依赖库和查询历史版本
+* 插件简介：这是一款能帮助你快速添加远程依赖库和查询历史版本的插件
 
 * 插件文档：在 Gradle 中输入想要添加的仓库名称即可联想到对应的依赖库，鼠标右击选择 `Query Available Versions` 可查询这个依赖库的历史版本
 
