@@ -1,3 +1,5 @@
+#### Studio 精品插件
+
 > 码云地址：[Gitee](https://gitee.com/getActivity/StudioPlugins)
 
 > [博客地址：Studio 精品插件推荐](https://www.jianshu.com/p/54bfd9e4d24c)
@@ -52,16 +54,6 @@
 
 ![](AndroidParcelableCodeGenerator.gif)
 
-#### 英文翻译插件
-
-* 插件名称：[ECTranslation](https://plugins.jetbrains.com/plugin/8469-ectranslation)
-
-* 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要换上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
-
-* 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项）
-
-![](ECTranslation.gif)
-
 #### Json 格式化插件
 
 * 插件名称：[JsonViewer](https://plugins.jetbrains.com/plugin/9679-json-viewer)
@@ -81,6 +73,36 @@
 * 插件文档：在 Gradle 中输入想要添加的仓库名称即可联想到对应的依赖库，鼠标右击选择 `Query Available Versions` 可查询这个依赖库的历史版本
 
 ![](GoogleLibraryVersionQuerier.gif)
+
+#### 彩虹括号插件
+
+* 插件名称：[RainbowBrackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+
+* 插件简介：这是一款能够增强代码括号的辨识度的插件
+
+* 插件文档：安装后重启即可看到效果
+
+![](RainbowBrackets.png)
+
+#### 代码预览小窗口插件
+
+* 插件名称：[CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+
+* 插件简介：Studio 自带的滚动条设计太过于简单，而这款插件恰到好处地扩展了滚动条的功能
+
+* 插件文档：不需要任何快捷键，只需要找到 Studio 最右边的小窗口，点击或者拖动预览窗口中的内容都能实现快速定位
+
+![](CodeGlance.png)
+
+#### 英文翻译插件
+
+* 插件名称：[Translation](https://plugins.jetbrains.com/plugin/8579-translation)
+
+* 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要换上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度
+
+* 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项），如果是翻译某个 API 文档，可以直接右击选择 Translate Documentation。在 Studio 窗口右下角可以选择翻译引擎（谷歌、有道、百度），在工具栏上面有翻译的按钮，点击会弹出翻译小窗口
+
+![](Translation.gif)
 
 #### 快速安装方式
 
