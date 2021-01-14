@@ -150,7 +150,7 @@
 
 * 插件文档：直接安装重启即可，如果需要换回英文版的，只需要在插件管理中禁用即可。
 
-![](Chinese Language Pack Plugins.jpg)
+![](ChineseLanguagePackPlugins.jpg)
 
 #### 作者的其他开源项目
 
