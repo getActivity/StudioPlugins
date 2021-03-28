@@ -18,6 +18,8 @@
 
 #### 更新日志
 
+* 2021 年 3 月 28 日：[<br>更新翻译插件版本<br>更新彩虹括号插件版本<br>更新 GsonFormat 插件版本](https://github.com/getActivity/StudioPlugins/commit/3974376360d314bcd0ae6279a2b682610e00bccf)
+
 * 2021 年 3 月 21 日：[<br>新增复制到访达插件<br>更新翻译插件版本<br>移除代码预览小窗口插件<br>添加插件作品 Github 信息](https://github.com/getActivity/StudioPlugins/commit/0207498bf1a5e2f1f645088ffff79c21d03664cb)
 
 * 2020 年 1 月 14 日：[<br>插件适配 Studio 4.1<br>新增 IDEA 中文包插件<br>新增 findViewById 生成插件](https://github.com/getActivity/StudioPlugins/commit/7de069c922d8f93b423ab13490bda6dc6549ce9d)
