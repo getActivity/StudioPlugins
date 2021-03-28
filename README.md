@@ -24,13 +24,13 @@
 
 * 2020 年 8 月 9 日：[<br>更换英文翻译插件<br>新增彩虹括号插件<br>代码预览小窗口插件](https://github.com/getActivity/StudioPlugins/commit/17ff49b9e15337bb79999588651875166e8f5d8a)
 
-* 2020 年 5 月 18 日：[新增远程仓库依赖插件](https://github.com/getActivity/StudioPlugins/commit/f3a21eaa8792c0fd32ab8097077a0b5b90d2b4a4)
+* 2020 年 5 月 18 日：[<br>新增远程仓库依赖插件](https://github.com/getActivity/StudioPlugins/commit/f3a21eaa8792c0fd32ab8097077a0b5b90d2b4a4)
 
 * 2020 年 5 月 16 日：[<br>新增远程仓库依赖插件<br>更新 Java 代码约束插件版本]()
 
 * 2020 年 3 月 30 日：[<br>新增 Json 转 Kotlin Bean 插件<br>新增 Json 格式化插件](https://github.com/getActivity/StudioPlugins/commit/0680b8970dd04eeede6ed8f5f4b7799c7a8c1cfb)
 
-* 2020 年 3 月 21 日：[新增一个英文翻译插件](https://github.com/getActivity/StudioPlugins/commit/e14b5c6c5470bce8b43a77f9b89ae19942240f56)
+* 2020 年 3 月 21 日：[<br>新增一个英文翻译插件](https://github.com/getActivity/StudioPlugins/commit/e14b5c6c5470bce8b43a77f9b89ae19942240f56)
 
 * 2020 年 3 月 14 日：[<br>新增 Java 代码约束插件<br>新增 Drawable 预览插件<br>新增 Json 转 Bean 插件<br>新增 Parcelable 序列化插件](https://github.com/getActivity/StudioPlugins/commit/fd552c014e936cdc6f6044818dd5de983efa89c4)
 
@@ -52,7 +52,7 @@
 
 * [彩虹括号插件](#彩虹括号插件)
 
-* [翻译插件](#翻译插件)
+* [英文翻译插件](#英文翻译插件)
 
 * [findViewById 插件](#findviewbyid-插件)
 
@@ -156,7 +156,7 @@
 
 ![](picture/RainbowBrackets.png)
 
-#### 翻译插件
+#### 英文翻译插件
 
 * 插件名称：[Translation](https://plugins.jetbrains.com/plugin/8579-translation)
 
