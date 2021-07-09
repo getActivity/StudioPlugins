@@ -6,17 +6,19 @@
 
 #### 使用需知
 
-* 所有插件在 Android Studio 4.1 上测试均没有问题，推荐使用此版本
+* 所有插件在 Android Studio 4.2 上测试均没有问题，推荐使用此版本
 
-* Android Studio 4.1.2 正式版下载：[Windows 版本](https://r1---sn-bvn0o-m01l.gvt1.com/edgedl/android/studio/ide-zips/4.1.2.0/android-studio-ide-201.7042882-windows.zip?cms_redirect=yes&mh=KT&mip=61.144.119.143&mm=28&mn=sn-bvn0o-m01l&ms=nvh&mt=1611109457&mv=m&mvi=1&pl=17&shardbypass=yes)，[MacOs 版本](https://r2---sn-bvn0o-m01l.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-mac.dmg?cms_redirect=yes&mh=OA&mip=61.144.119.143&mm=28&mn=sn-bvn0o-m01l&ms=nvh&mt=1611109457&mv=m&mvi=2&pl=17&shardbypass=yes)
+* Android Studio 4.2.2 正式版下载：[Windows 版本](https://redirector.gvt1.com/edgedl/android/studio/ide-zips/4.2.2.0/android-studio-ide-202.7486908-windows.zip)，[MacOs 版本](https://redirector.gvt1.com/edgedl/android/studio/install/4.2.2.0/android-studio-ide-202.7486908-mac.dmg)
 
 * 下载好插件，选择 `Settings` -> `Plugins`  -> `Install Plugin from Disk` 进行安装
 
 ![](picture/InstallPlugin.jpg)
 
-* 小技巧：如果出现安装不了的情况，并且 Studio 不是 4.1 版本，可以直接复制插件的名称然后在 Studio 插件在线搜索并下载，Studio 会自动帮你匹配最佳的插件版本。
+* 小技巧：如果出现安装不了的情况，并且 Studio 不是 4.2 版本，可以直接复制插件的名称然后在 Studio 插件在线搜索并下载，Studio 会自动帮你匹配最佳的插件版本。
 
 #### 更新日志
+
+* 2021 年 7 月 9 日：[<br>更新彩虹括号插件版本<br>更新 IDEA 中文包插件版本<br>更新 GsonFormatPlus 插件版本<br>更新 JsonToKotlinClass 插件版本](https://github.com/getActivity/StudioPlugins/commits/master)
 
 * 2021 年 3 月 28 日：[<br>更新翻译插件版本<br>更新彩虹括号插件版本<br>更新 GsonFormat 插件版本](https://github.com/getActivity/StudioPlugins/commit/3974376360d314bcd0ae6279a2b682610e00bccf)
 
@@ -68,9 +70,9 @@
 
 * Github：[TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 
-* 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要换上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度
+* 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要装上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
 
-* 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项），如果是翻译某个 API 文档，可以直接右击选择 Translate Documentation。在 Studio 窗口右下角可以选择翻译引擎（谷歌、有道、百度），在工具栏上面有翻译的按钮，点击会弹出翻译小窗口
+* 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项），如果是翻译某个 API 文档，可以直接右击选择 Translate Documentation。在 Studio 窗口右下角可以选择翻译引擎（谷歌、有道、百度），在工具栏上面有翻译的按钮，点击会弹出翻译小窗口。
 
 ![](picture/Translation.gif)
 
@@ -92,9 +94,9 @@
 
 * Github：[GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
 
-* 插件简介：这是一款能帮助你快速添加远程依赖库和查询历史版本的插件
+* 插件简介：这是一款能帮助你快速添加远程依赖库和查询历史版本的插件。
 
-* 插件文档：在 Gradle 中输入想要添加的仓库名称即可联想到对应的依赖库，鼠标右击选择 `Query Available Versions` 可查询这个依赖库的历史版本
+* 插件文档：在 Gradle 中输入想要添加的仓库名称即可联想到对应的依赖库，鼠标右击选择 `Query Available Versions` 可查询这个依赖库的历史版本。
 
 ![](picture/GoogleLibraryVersionQuerier.gif)
 
@@ -186,9 +188,9 @@
 
 * Github：[JsonViewer](https://github.com/potterhsu/JsonViewer)
 
-* 插件简介：当日志打印的 Json 没有经过格式化的时候，我们 Review 起来会非常困难，这时可以利用这款插件对 Json 文本进行格式化，相比我们去网页格式化，这种方式极大提高了我们的效率
+* 插件简介：当日志打印的 Json 没有经过格式化的时候，我们 Review 起来会非常困难，这时可以利用这款插件对 Json 文本进行格式化，相比我们去网页格式化，这种方式极大提高了我们的效率。
 
-* 插件文档：不需要任何快捷键，只需要找到 Studio 窗口最右边，即可找到 `Json Viewer` 选项，点击即可
+* 插件文档：不需要任何快捷键，只需要找到 Studio 窗口最右边，即可找到 `Json Viewer` 选项，点击即可。
 
 ![](picture/JsonViewer.png)
 
