@@ -19,7 +19,9 @@
 <details>
 <summary><font size="4"> 更新日志（点击展开）</font></summary>
 
-* 2022 年 5 月 15 日：<br>新增 Markdown 插件<br>新增 CodeLocator 插件<br>新增 SequenceDiagram 插件<br>新增 JsonHelper 代替 JsonViewer 插件<br>新增 GsonFormat 代替 GsonFormatPlus 插件<br>更新 RainbowBrackets 插件版本<br>更新 TranslationPlugin 插件版本<br>更新 JsonToKotlinClass 插件版本<br>更新 ChineseLanguagePack 插件版本
+* 2022 年 5 月 16 日：<br>更新 Markdown 插件<br>优化插件名称以方便搜索
+
+* 2022 年 5 月 15 日：[<br>新增 Markdown 插件<br>新增 CodeLocator 插件<br>新增 SequenceDiagram 插件<br>新增 JsonHelper 代替 JsonViewer 插件<br>新增 GsonFormat 代替 GsonFormatPlus 插件<br>更新 RainbowBrackets 插件版本<br>更新 TranslationPlugin 插件版本<br>更新 JsonToKotlinClass 插件版本<br>更新 ChineseLanguagePack 插件版本](https://github.com/getActivity/StudioPlugins/commit/97cb2e15946fed3478cf8f4fc2dccb5d9e2b25d2)
 
 * 2021 年 7 月 9 日：[<br>更新彩虹括号插件版本<br>更新 IDEA 中文包插件版本<br>更新 GsonFormatPlus 插件版本<br>更新 JsonToKotlinClass 插件版本](https://github.com/getActivity/StudioPlugins/commit/11a8ecf35572453a32f96dbdc86f118251b43833)
 
@@ -213,7 +215,7 @@
 
 #### 彩虹括号插件
 
-* 插件名称：[RainbowBrackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+* 插件名称：[Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 
 * Github：[intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)
 
@@ -227,7 +229,7 @@
 
 #### Json 助手插件
 
-* 插件名称：[JsonHelper](https://plugins.jetbrains.com/plugin/13873-json-helper)
+* 插件名称：[Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
 
 * 下载地址：[点我下载插件](plugin/JsonHelper-1.1.2.zip)
 
@@ -255,7 +257,7 @@
 
 * Github：[Markdown](https://github.com/JetBrains/intellij-community/tree/master/plugins/markdown)
 
-* 下载地址：[点我下载插件](plugin/Markdown-202.6397.21.zip)
+* 下载地址：[点我下载插件](plugin/Markdown-211.7142.37.zip)
 
 * 插件简介：IDEA 官方出品的 Markdown 插件，会自动高亮 md 文档中的语法，用来看 md 文档效果不错
 
