@@ -103,7 +103,7 @@
 
 * Github：[TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 
-* 下载地址：[点我下载插件](plugin/TranslationPlugin-3.5.2_203u212.zip)
+* 下载地址：[点我下载插件](plugins/TranslationPlugin-3.5.2_203u212.zip)
 
 * 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要装上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
 
@@ -117,7 +117,7 @@
 
 * Github：[Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin)
 
-* 下载地址：[点我下载插件](plugin/AndroidDrawablePreview-1.1.5.zip)
+* 下载地址：[点我下载插件](plugins/AndroidDrawablePreview-1.1.5.zip)
 
 * 插件简介：这是一款在 Studio 上预览图片资源缩略图的插件，能帮我们快速定位欲查找图片的位置，除此之外还支持显示 xml 资源的缩略图。
 
@@ -131,7 +131,7 @@
 
 * Github：[ADB Uninstall](https://github.com/Ghedeon/ADB-Uninstall)
 
-* 下载地址：[点我下载插件](plugin/ADBUninstall-1.1.5.zip)
+* 下载地址：[点我下载插件](plugins/ADBUninstall-1.1.5.zip)
 
 * 插件简介：在 Android Studio 上面添加一个卸载按钮
 
@@ -143,7 +143,7 @@
 
 * 插件名称：[Adb Input](https://plugins.jetbrains.com/plugin/13758-adb-input)
 
-* 下载地址：[点我下载插件](plugin/AdbInput-1.0.1.zip)
+* 下载地址：[点我下载插件](plugins/AdbInput-1.0.1.zip)
 
 * 插件简介：这是一款可以在 IDE 将文本数据通过电脑传输到手机上面的工具
 
@@ -157,7 +157,7 @@
 
 * Github：[adb-idea](https://github.com/pbreault/adb-idea/)
 
-* 下载地址：[点我下载插件](plugin/AdbIdea-1.6.12.zip)
+* 下载地址：[点我下载插件](plugins/AdbIdea-1.6.12.zip)
 
 * 插件简介：这是一款 adb 命令封装的工具集，可以实现卸载应用，杀死应用，清楚数据、撤销权限等操作
 
@@ -171,7 +171,7 @@
 
 * Github：[GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
 
-* 下载地址：[点我下载插件](plugin/GoogleLibraryVersionQuerier-3.3.zip)
+* 下载地址：[点我下载插件](plugins/GoogleLibraryVersionQuerier-3.3.zip)
 
 * 插件简介：这是一款能帮助你快速添加远程依赖库和查询历史版本的插件。
 
@@ -185,7 +185,7 @@
 
 * 码云：[JadxClassDecompiler](https://gitee.com/ideplugin/jadx-gui-idea)
 
-* 下载地址：[点我下载插件](plugin/JadxClassDecompiler-2021.2.1.zip)
+* 下载地址：[点我下载插件](plugins/JadxClassDecompiler-2021.2.1.zip)
 
 * 插件简介：这是一款能在 Android Studio 上面实现快速反编译的插件。
 
@@ -199,7 +199,7 @@
 
 * Github：[CodeLocator](https://github.com/bytedance/CodeLocator)
 
-* 下载地址：[点我下载插件](plugin/CodeLocatorPlugin-2.0.0.zip)
+* 下载地址：[点我下载插件](plugins/CodeLocatorPlugin-2.0.0.zip)
 
 * 插件简介：CodeLocator 是一个包含 Android SDK 与 Android Studio 插件的 Android 工具集，支持在真机调试中进行快速定位代码及 UI 纠正，开发必备利器。
 
@@ -213,7 +213,7 @@
 
 * Github：[SequencePlugin](https://github.com/Vanco/SequencePlugin)
 
-* 下载地址：[点我下载插件](plugin/SequenceDiagram-2.2.6.zip)
+* 下载地址：[点我下载插件](plugins/SequenceDiagram-2.2.6.zip)
 
 * 插件简介：这是一款能根据代码自动生成 UML 的插件，可以说是阅读源码的神器。
 
@@ -227,7 +227,7 @@
 
 * Github：[p3c](https://github.com/alibaba/p3c)
 
-* 下载地址：[点我下载插件](plugin/AlibabaJavaCodingGuidelines-2.1.1.zip)
+* 下载地址：[点我下载插件](plugins/AlibabaJavaCodingGuidelines-2.1.1.zip)
 
 * 插件简介：这是阿里巴巴开发的一款代码约束插件，当我们的代码不符合规范时，会有相应的警告提示，能够帮助我们在开发中提升代码质量。
 
@@ -241,7 +241,7 @@
 
 * Github：[android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 
-* 下载地址：[点我下载插件](plugin/AndroidParcelableCodeGenerator-0.7.0-fix.jar)
+* 下载地址：[点我下载插件](plugins/AndroidParcelableCodeGenerator-0.7.0-fix.jar)
 
 * 插件简介：在日常开发中，我们不可避免要对 Bean 类序列化，而序列化方式有两种，一种是 Serializable，实现方式比较简单但是比较耗性能，另外一种是 Parcelable，相比 Serializable 性能更好，但是实现过程比较麻烦，这时这款插件发挥的作用就恰到好处了，它能够帮我们节省整个繁琐的实现过程。
 
@@ -255,7 +255,7 @@
 
 * Github：[GsonFormat](https://github.com/zzz40500/GsonFormat)
 
-* 下载地址：[点我下载插件](plugin/GsonFormat-1.5.0-fix.jar)
+* 下载地址：[点我下载插件](plugins/GsonFormat-1.5.0-fix.jar)
 
 * 插件简介：这是一款能够帮助我们将后台返回的 Json 转换成 Java Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
 
@@ -269,7 +269,7 @@
 
 * Github：[JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)
 
-* 下载地址：[点我下载插件](plugin/JsonToKotlinClass-3.7.4.zip)
+* 下载地址：[点我下载插件](plugins/JsonToKotlinClass-3.7.4.zip)
 
 * 插件简介：这是一款能够帮助我们将后台返回的 Json 转换成 Kotlin Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
 
@@ -283,7 +283,7 @@
 
 * Github：[CopyToFinder](https://github.com/TimmyOVO/CopyToFinder)
 
-* 下载地址：[点我下载插件](plugin/CopyToFinder-1.9-SNAPSHOT.jar)
+* 下载地址：[点我下载插件](plugins/CopyToFinder-1.9-SNAPSHOT.jar)
 
 * 插件简介：用过 macOs 系统的同学，应该有遇到过一个问题，可以复制 Finder 的文件到 Studio 上，但是 Studio 却无法复制文件到 Finder 上，而这个插件恰好解决了这个痛点，这样的插件你爱了吗？
 
@@ -295,7 +295,7 @@
 
 * Github：[intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)
 
-* 下载地址：[点我下载插件](plugin/RainbowBrackets-6.26.zip)
+* 下载地址：[点我下载插件](plugins/RainbowBrackets-6.26.zip)
 
 * 插件简介：这是一款能够增强代码括号的辨识度的插件
 
@@ -307,7 +307,7 @@
 
 * 插件名称：[Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
 
-* 下载地址：[点我下载插件](plugin/JsonHelper-1.2.0.zip)
+* 下载地址：[点我下载插件](plugins/JsonHelper-1.2.0.zip)
 
 * 插件简介：当日志打印的 Json 没有经过格式化的时候，我们 Review 起来会非常困难，这时可以利用这款插件对 Json 文本进行格式化，相比我们去网页格式化，这种方式极大提高了我们的效率。
 
@@ -319,7 +319,7 @@
 
 * 插件名称：[Chinese Language Pack Plugins](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----)
 
-* 下载地址：[点我下载插件](plugin/ChineseLanguagePackPlugins-211.311.jar)
+* 下载地址：[点我下载插件](plugins/ChineseLanguagePackPlugins-211.311.jar)
 
 * 插件简介：IDEA 官方出品的中文汉化包，官方出品的中文汉化包，官方出品的中文汉化包，重要的事情说三遍！
 
@@ -333,7 +333,7 @@
 
 * Github：[name-that-color-intellij-plugin](https://github.com/galex/name-that-color-intellij-plugin)
 
-* 下载地址：[点我下载插件](plugin/NameThatColor-1.7.4-fix.jar)
+* 下载地址：[点我下载插件](plugins/NameThatColor-1.7.4-fix.jar)
 
 * 插件简介：只需要输入一串颜色值，就能够自动生成 `color` 名称节点的一款插件，十分方便
 
@@ -347,7 +347,7 @@
 
 * Github：[FindViewByMe](https://github.com/laobie/FindViewByMe)
 
-* 下载地址：[点我下载插件](plugin/FindViewByMe-1.4.3.jar)
+* 下载地址：[点我下载插件](plugins/FindViewByMe-1.4.3.jar)
 
 * 插件简介：Gradle 5.0 之后，ViewId 将不会以常量的形式呈现，因此 ButterKnife 宣布弃更，其实我觉得吧，无论后续出了什么 View 注入框架，最终还是调用了 findViewById，虽然这些框架更加便捷，但是也存在一些缺陷，例如 ViewBinding 会多生成一个类，无法保证 View 命名规范等问题，其实 findViewById 就挺好，但是好是好，写起来很枯燥怎么办？这个时候如果有一个自动生成 findViewById 代码的插件，是不是问题就已经解决了？
 
@@ -361,7 +361,7 @@
 
 * Github：[CodeGlance](https://github.com/Vektah/CodeGlance)
 
-* 下载地址：[点我下载插件](plugin/CodeGlance-1.5.4.zip)
+* 下载地址：[点我下载插件](plugins/CodeGlance-1.5.4.zip)
 
 * 插件简介：Studio 自带的滚动条设计太过于简单，而这款插件恰到好处地扩展了滚动条的功能
 
