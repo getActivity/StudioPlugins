@@ -27,6 +27,8 @@
 <details>
 <summary><font size="4"> 更新日志（点击展开）</font></summary>
 
+* 2023 年 8 月 21 日：[<br>更新 TranslationPlugin 插件<br>更新 AndroidDrawablePreview 插件<br>更新 CodeLocatorPlugin 插件<br>更新 JadxClassDecompiler 插件<br>更新 ChineseLanguagePackPlugins 插件<br>移除 NameThatColor 插件](https://github.com/getActivity/StudioPlugins/commit/965af920dc65fe77eedf4c922dd006a69cceb838)
+
 * 2023 年 8 月 20 日：[<br>新增 adb 卸载工具<br>新增 adb 输入工具<br>新增 adb 工具集集合<br>新增 Jadx 反编译插件<br>新增 Color 重命名插件<br>加回 findViewById 插件<br>加回代码预览小窗口插件<br>更新 TranslationPlugin 版本<br>更新 CodeLocator 版本<br>更新 SequenceDiagram 版本<br>更新 GsonFormat 版本<br>更新 JsonToKotlinClass 版本<br>更新 CopyToFinder 版本<br>更新 RainbowBrackets 版本<br>更新 JsonHelper 版本<br>更新 AndroidParcelableCodeGenerator 版本](https://github.com/getActivity/StudioPlugins/commit/9e5362402a16a407df7e92c92b17b744800923bf)
 
 * 2022 年 5 月 16 日：[<br>更新 Markdown 插件<br>优化插件名称以方便搜索](https://github.com/getActivity/StudioPlugins/commit/850d4252dfe6cd2c07354f40d5019ddf9938fa7b)
