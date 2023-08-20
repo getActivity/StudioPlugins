@@ -91,8 +91,6 @@
 
 * [IDEA 中文包插件](#idea-中文包插件)
 
-* [Color 重命名插件](#color-重命名插件)
-
 * [findViewById 插件](#findviewbyid-插件)
 
 * [代码预览小窗口插件](#代码预览小窗口插件)
@@ -103,7 +101,7 @@
 
 * Github：[TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 
-* 下载地址：[点我下载插件](plugins/TranslationPlugin-3.5.2_203u212.zip)
+* 下载地址：[点我下载插件](plugins/TranslationPlugin-3.5.2.zip)
 
 * 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要装上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
 
@@ -117,7 +115,7 @@
 
 * Github：[Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin)
 
-* 下载地址：[点我下载插件](plugins/AndroidDrawablePreview-1.1.5.zip)
+* 下载地址：[点我下载插件](plugins/AndroidDrawablePreview-1.1.6-fix.zip)
 
 * 插件简介：这是一款在 Studio 上预览图片资源缩略图的插件，能帮我们快速定位欲查找图片的位置，除此之外还支持显示 xml 资源的缩略图。
 
@@ -185,7 +183,7 @@
 
 * 码云：[JadxClassDecompiler](https://gitee.com/ideplugin/jadx-gui-idea)
 
-* 下载地址：[点我下载插件](plugins/JadxClassDecompiler-2021.2.1.zip)
+* 下载地址：[点我下载插件](plugins/JadxClassDecompiler-2022.1.0.zip)
 
 * 插件简介：这是一款能在 Android Studio 上面实现快速反编译的插件。
 
@@ -199,7 +197,7 @@
 
 * Github：[CodeLocator](https://github.com/bytedance/CodeLocator)
 
-* 下载地址：[点我下载插件](plugins/CodeLocatorPlugin-2.0.0.zip)
+* 下载地址：[点我下载插件](plugins/CodeLocatorPlugin-2.0.1.zip)
 
 * 插件简介：CodeLocator 是一个包含 Android SDK 与 Android Studio 插件的 Android 工具集，支持在真机调试中进行快速定位代码及 UI 纠正，开发必备利器。
 
@@ -319,27 +317,13 @@
 
 * 插件名称：[Chinese Language Pack Plugins](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----)
 
-* 下载地址：[点我下载插件](plugins/ChineseLanguagePackPlugins-211.311.jar)
+* 下载地址：[点我下载插件](plugins/ChineseLanguagePackPlugins-223.360.zip)
 
 * 插件简介：IDEA 官方出品的中文汉化包，官方出品的中文汉化包，官方出品的中文汉化包，重要的事情说三遍！
 
 * 插件文档：直接安装重启即可，如果需要换回英文版的，只需要在插件管理中禁用即可。
 
 ![](picture/ChineseLanguagePackPlugins.jpg)
-
-#### Color 重命名插件
-
-* 插件名称：[Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color)
-
-* Github：[name-that-color-intellij-plugin](https://github.com/galex/name-that-color-intellij-plugin)
-
-* 下载地址：[点我下载插件](plugins/NameThatColor-1.7.4-fix.jar)
-
-* 插件简介：只需要输入一串颜色值，就能够自动生成 `color` 名称节点的一款插件，十分方便
-
-* 插件文档：在 `color.xml` 随意输入一串颜色值，点击红色的小灯泡，选择 `Name that color` 或者 `Name that material color` 即可
-
-![](picture/NameThatColor.png)
 
 #### findViewById 插件
 
