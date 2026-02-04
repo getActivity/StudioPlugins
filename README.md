@@ -61,6 +61,8 @@
 
 * [英文翻译插件](#英文翻译插件)
 
+* [智能切换输入法](#智能切换输入法)
+
 * [Drawable 预览插件](#drawable-预览插件)
 
 * [adb 卸载工具](#adb-卸载工具)
@@ -110,6 +112,20 @@
 * 插件文档：选中欲翻译的英文单词或者句子，鼠标右击选择 Translate（默认为第一个选项），如果是翻译某个 API 文档，可以直接右击选择 Translate Documentation。在 Studio 工具栏上面有翻译的按钮，点击会弹出翻译小窗口，小窗口有设置按钮，点击设置按钮即可选择翻译引擎（谷歌、有道、百度）。
 
 ![](picture/Translation.gif)
+
+#### 智能切换输入法
+
+* 插件名称：[SmartInput](https://plugins.jetbrains.com/plugin/20575-smart-input)
+
+* Github：[SmartInput](https://github.com/SmartInput/SmartInput)
+
+* 下载地址：[点我下载插件](plugins/SmartInput-5.1.1.212u223.zip)
+
+* 插件简介：这个插件会根据我们在编码的场景自动切换输入法，例如在写代码的时候切换成英文，写注释的时候切换成中文，敲命令行的时候切换成英文
+
+* 插件文档：打开插件设置有两种方式，方式1：菜单栏->Tools->Smart Input->插件设置，方式2：IDE设置->搜索Smart Input。
+
+![](picture/SmartInput.gif)
 
 #### Drawable 预览插件
 
@@ -406,18 +422,6 @@
 #### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:（[点击查看捐赠列表](https://github.com/getActivity/Donate)）
 
 ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
-
-#### 广告区
-
-* 我现在任腾讯云服务器推广大使，大家如果有购买服务器的需求，可以通过下面的链接购买
-
-[![](https://upload-dianshi-1255598498.file.myqcloud.com/upload/nodir/345X200-9ae456f58874df499adf7c331c02cb0fed12b81d.jpg)](https://curl.qcloud.com/A6cYskvv)
-
-[【腾讯云】云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中](https://curl.qcloud.com/A6cYskvv)
-
-[![](https://upload-dianshi-1255598498.file.myqcloud.com/345-200-b28f7dee9552f4241ea6a543f15a9798049701d4.jpg)](https://curl.qcloud.com/up4fQsdn)
-
-[【腾讯云】中小企业福利专场，多款刚需产品，满足企业通用场景需求](https://curl.qcloud.com/up4fQsdn)
 
 ## License
 
