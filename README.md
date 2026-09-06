@@ -93,8 +93,6 @@
 
 * [findViewById 插件](#findviewbyid-插件)
 
-* [代码预览小窗口插件](#代码预览小窗口插件)
-
 #### 编译提速插件
 
 * Github：[jugg](https://github.com/tencentmusic/jugg)
@@ -320,20 +318,6 @@
 * 插件文档：在 xml 文件中右击，选择 `Generate` -> `FindViewByMe`，然后选择需要生成 findViewById 的 View 即可。
 
 ![](picture/FindViewByMe.jpg)
-
-#### 代码预览小窗口插件
-
-* 插件名称：[CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
-
-* Github：[CodeGlance](https://github.com/Vektah/CodeGlance)
-
-* 下载地址：[点我下载插件](plugins/CodeGlance-1.5.4.zip)
-
-* 插件简介：Studio 自带的滚动条设计太过于简单，而这款插件恰到好处地扩展了滚动条的功能
-
-* 插件文档：不需要任何快捷键，只需要找到 Studio 最右边的小窗口，点击或者拖动预览窗口中的内容都能实现快速定位
-
-![](picture/CodeGlance.png)
 
 #### 作者的其他开源项目
 
