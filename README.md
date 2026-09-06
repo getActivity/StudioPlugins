@@ -75,8 +75,6 @@
 
 * [代码定位插件](#代码定位插件)
 
-* [序列图插件](#序列图插件)
-
 * [Java 代码约束插件](#java-代码约束插件)
 
 * [Parcelable 序列化插件](#parcelable-序列化插件)
@@ -204,20 +202,6 @@
 * 插件文档：[集成文档](https://github.com/bytedance/CodeLocator/blob/main/README.md)、[使用文档](https://github.com/bytedance/CodeLocator/blob/main/how_to_use_codelocator_zh.md)
 
 ![](picture/CodeLocatorPlugin.gif)
-
-#### 序列图插件
-
-* 插件名称：[SequenceDiagram](https://plugins.jetbrains.com/plugin/8286-sequencediagram)
-
-* Github：[SequencePlugin](https://github.com/Vanco/SequencePlugin)
-
-* 下载地址：[点我下载插件](plugins/SequenceDiagram-2.2.6.zip)
-
-* 插件简介：这是一款能根据代码自动生成 UML 的插件，可以说是阅读源码的神器。
-
-* 插件文档：在方法名右击，然后选择 `Sequence Diagram` 即可查看对应的 UML 图，不仅如此，插件还支持导出到图片，还支持配置 UML 图中的调用链的深度，十分方便。
-
-![](picture/SequenceDiagram.jpg)
 
 #### Java 代码约束插件
 
