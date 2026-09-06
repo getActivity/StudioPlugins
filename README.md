@@ -195,20 +195,6 @@
 
 ![](picture/GoogleLibraryVersionQuerier.gif)
 
-#### Jadx 反编译插件
-
-* 插件名称：[JadxClassDecompiler](https://plugins.jetbrains.com/plugin/17851-jadx-class-decompiler)
-
-* 码云：[JadxClassDecompiler](https://gitee.com/ideplugin/jadx-gui-idea)
-
-* 下载地址：[点我下载插件](plugins/JadxClassDecompiler-2022.1.0.zip)
-
-* 插件简介：这是一款能在 Android Studio 上面实现快速反编译的插件。
-
-* 插件文档：在后缀名为 `apk, dex, jar, class, smali, zip, aar, arsc` 的文件右击，选择 `在 Jadx GUI 中反编译` 即可，简单方便。
-
-![](picture/JadxClassDecompiler.jpg)
-
 #### 代码定位插件
 
 * 插件名称：[CodeLocator](https://plugins.jetbrains.com/plugin/17447-codelocator)
