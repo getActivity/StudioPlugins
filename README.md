@@ -75,8 +75,6 @@
 
 * [代码定位插件](#代码定位插件)
 
-* [Java 代码约束插件](#java-代码约束插件)
-
 * [Parcelable 序列化插件](#parcelable-序列化插件)
 
 * [Json 转 Java Bean 插件](#json-转-java-bean-插件)
@@ -202,20 +200,6 @@
 * 插件文档：[集成文档](https://github.com/bytedance/CodeLocator/blob/main/README.md)、[使用文档](https://github.com/bytedance/CodeLocator/blob/main/how_to_use_codelocator_zh.md)
 
 ![](picture/CodeLocatorPlugin.gif)
-
-#### Java 代码约束插件
-
-* 插件名称：[Alibaba Java Coding Guidelines](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines)
-
-* Github：[p3c](https://github.com/alibaba/p3c)
-
-* 下载地址：[点我下载插件](plugins/AlibabaJavaCodingGuidelines-2.1.1.zip)
-
-* 插件简介：这是阿里巴巴开发的一款代码约束插件，当我们的代码不符合规范时，会有相应的警告提示，能够帮助我们在开发中提升代码质量。
-
-* 插件文档：安装成功后重启，插件在发现预览 Java 类中发现不规范的地方会有黄色的警告。
-
-![](picture/AlibabaJavaCodingGuidelines.gif)
 
 #### Parcelable 序列化插件
 
