@@ -6,17 +6,17 @@
 
 #### 使用需知
 
-* 所有插件在 Android Studio 2022.3.1.18（长颈鹿）上测试均没有问题，推荐使用此版本
+* 所有插件在 Android Studio Quail 3 | 2026.1.3（鹌鹑3）上测试均没有问题，推荐使用此版本
 
-* Android Studio 2022.3.1.18（长颈鹿）正式版下载：
+* Android Studio Quail 3 | 2026.1.3（鹌鹑3）正式版下载：
 
-    * [Windows 版本](https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2022.3.1.18/android-studio-2022.3.1.18-windows.zip)
+    * [Windows 版本](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.7/android-studio-quail3-windows.zip)
 
-    * [macOs 版本](https://redirector.gvt1.com/edgedl/android/studio/install/2022.3.1.18/android-studio-2022.3.1.18-mac.dmg)
+    * [macOs x86 版本](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.7/android-studio-quail3-mac.dmg)
 
-    * [macOs arm 版本](https://redirector.gvt1.com/edgedl/android/studio/install/2022.3.1.18/android-studio-2022.3.1.18-mac_arm.dmg)
+    * [macOs arm 版本](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.7/android-studio-quail3-mac_arm.dmg)
 
-    * [Linux 版本](https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2022.3.1.18/android-studio-2022.3.1.18-linux.tar.gz)
+    * [Linux 版本](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.7/android-studio-quail3-linux.tar.gz)
 
 * 下载好插件，选择 `Settings` -> `Plugins`  -> `Install Plugin from Disk` 进行安装
 
