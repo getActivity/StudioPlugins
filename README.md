@@ -283,7 +283,7 @@
 
 * 插件名称：[Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
 
-* 下载地址：[点我下载插件](plugins/JsonHelper-1.2.0.zip)
+* 下载地址：[点我下载插件](plugins/JsonHelper-1.4.2.zip)
 
 * 插件简介：当日志打印的 Json 没有经过格式化的时候，我们 Review 起来会非常困难，这时可以利用这款插件对 Json 文本进行格式化，相比我们去网页格式化，这种方式极大提高了我们的效率。
 
