@@ -215,7 +215,7 @@
 
 * Github：[CodeLocator](https://github.com/bytedance/CodeLocator)
 
-* 下载地址：[点我下载插件](plugins/CodeLocatorPlugin-2.0.1.zip)
+* 下载地址：[点我下载插件](https://github.com/bytedance/CodeLocator/releases)
 
 * 插件简介：CodeLocator 是一个包含 Android SDK 与 Android Studio 插件的 Android 工具集，支持在真机调试中进行快速定位代码及 UI 纠正，开发必备利器。
 
