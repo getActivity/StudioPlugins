@@ -67,8 +67,6 @@
 
 * [代码异味检测插件](#代码异味检测插件)
 
-* [adb 卸载工具](#adb-卸载工具)
-
 * [adb 输入文本工具](#adb-输入文本工具)
 
 * [adb 工具集合插件](#adb-工具集合插件)
@@ -142,20 +140,6 @@
 * 插件简介：这是一款代码约束插件，当我们的代码不符合规范时，会有相应的警告提示，能够帮助我们在开发中提升代码质量。
 
 ![](picture/SonarLint.png)
-
-#### adb 卸载工具
-
-* 插件名称：[ADB Uninstall](https://plugins.jetbrains.com/plugin/7326-adb-uninstall)
-
-* Github：[ADB Uninstall](https://github.com/Ghedeon/ADB-Uninstall)
-
-* 下载地址：[点我下载插件](plugins/ADBUninstall-1.1.5.zip)
-
-* 插件简介：在 Android Studio 上面添加一个卸载按钮
-
-* 插件文档：点击按钮即可卸载应用程序
-
-![](picture/AdbUninstall.png)
 
 #### adb 输入文本工具
 
