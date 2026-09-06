@@ -63,7 +63,7 @@
 
 * [英文翻译插件](#英文翻译插件)
 
-* [Drawable 预览插件](#drawable-预览插件)
+* [图片预览插件](#图片预览插件)
 
 * [代码异味检测插件](#代码异味检测插件)
 
@@ -117,13 +117,13 @@
 
 ![](picture/Translation.gif)
 
-#### Drawable 预览插件
+#### 图片预览插件
 
 * 插件名称：[Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview)
 
-* Github：[Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin)
+* Github：[Android-drawable-preview-plugin](https://github.com/Merkost/Android-drawable-preview-plugin)
 
-* 下载地址：[点我下载插件](plugins/AndroidDrawablePreview-1.1.6-fix.zip)
+* 下载地址：[点我下载插件](plugins/AndroidDrawablePreview-1.3.0.zip)
 
 * 插件简介：这是一款在 Studio 上预览图片资源缩略图的插件，能帮我们快速定位欲查找图片的位置，除此之外还支持显示 xml 资源的缩略图。
 
