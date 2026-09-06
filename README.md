@@ -59,6 +59,8 @@
 
 #### 插件导航
 
+* [编译提速插件](#编译提速插件)
+
 * [英文翻译插件](#英文翻译插件)
 
 * [智能切换输入法](#智能切换输入法)
@@ -98,6 +100,18 @@
 * [findViewById 插件](#findviewbyid-插件)
 
 * [代码预览小窗口插件](#代码预览小窗口插件)
+
+#### 编译提速插件
+
+* Github：[jugg](https://github.com/tencentmusic/jugg)
+
+* 下载地址：[点我下载插件](https://github.com/tencentmusic/jugg/releases)
+
+* 插件简介：在大型 Android 工程的日常开发中，“等待编译” 往往是吞噬开发体验与效率的最大杀手。多年迭代使得工程日益臃肿，构建速度逐渐劣化，有时仅改动一两行代码，就要面对几分钟的等待，这种被频繁打断的开发体验，成为越来越多开发者的痛点，为解决这一痛点，腾讯音乐技术团队经过多年研发和内部使用，正式开源 Jugg，专为大规模 Android 工程打造的秒级增量构建方案。
+
+* 插件介绍：[日常修改，3秒生效：腾讯音乐 Android 秒编方案 Jugg 开源](https://mp.weixin.qq.com/s/Pjsl2S4Yi2dkmyjfDssV9w)
+
+![](picture/jugg.png)
 
 #### 英文翻译插件
 
