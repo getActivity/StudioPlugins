@@ -69,7 +69,7 @@
 
 * [adb 输入文本工具](#adb-输入文本工具)
 
-* [adb 工具集合](#adb-工具集合)
+* [adb 工具集合插件](#adb-工具集合插件)
 
 * [远程仓库依赖插件](#远程仓库依赖插件)
 
@@ -163,13 +163,13 @@
 
 ![](picture/AdbInput.png)
 
-#### adb 工具集合
+#### adb 工具集合插件
 
 * 插件名称：[ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea/versions)
 
 * Github：[adb-idea](https://github.com/pbreault/adb-idea/)
 
-* 下载地址：[点我下载插件](plugins/AdbIdea-1.6.12.zip)
+* 下载地址：[点我下载插件](plugins/AdbIdea-1.6.20.zip)
 
 * 插件简介：这是一款 adb 命令封装的工具集，可以实现卸载应用，杀死应用，清楚数据、撤销权限等操作
 
