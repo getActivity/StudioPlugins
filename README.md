@@ -119,7 +119,7 @@
 
 * Github：[TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 
-* 下载地址：[点我下载插件](plugins/TranslationPlugin-3.5.2.zip)
+* 下载地址：[点我下载插件](plugins/TranslationPlugin-3.9.1.zip)
 
 * 插件简介：我们在 Review 代码或者注释时，偶尔会对某个单词或者句子感到陌生，多数人会选择到第三方软件或者网站去翻译，但是这一来二去也是相对比较麻烦，这个时候你只要装上这款插件，即可在 Studio 中直接翻译，这样可以大大提高我们对代码的专注度。
 
