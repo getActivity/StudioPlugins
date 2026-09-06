@@ -89,8 +89,6 @@
 
 * [Json 助手插件](#json-助手插件)
 
-* [IDEA 中文包插件](#idea-中文包插件)
-
 * [findViewById 插件](#findviewbyid-插件)
 
 #### 编译提速插件
@@ -292,18 +290,6 @@
 * 插件文档：不需要任何快捷键，只需要找到 Studio 窗口最右边，即可找到 `Json Helper` 选项，点击即可。
 
 ![](picture/JsonHelper.gif)
-
-#### IDEA 中文包插件
-
-* 插件名称：[Chinese Language Pack Plugins](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----)
-
-* 下载地址：[点我下载插件](plugins/ChineseLanguagePackPlugins-223.360.zip)
-
-* 插件简介：IDEA 官方出品的中文汉化包，官方出品的中文汉化包，官方出品的中文汉化包，重要的事情说三遍！
-
-* 插件文档：直接安装重启即可，如果需要换回英文版的，只需要在插件管理中禁用即可。
-
-![](picture/ChineseLanguagePackPlugins.jpg)
 
 #### findViewById 插件
 
