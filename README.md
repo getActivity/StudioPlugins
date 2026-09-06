@@ -65,6 +65,8 @@
 
 * [Drawable 预览插件](#drawable-预览插件)
 
+* [代码异味检测插件](#代码异味检测插件)
+
 * [adb 卸载工具](#adb-卸载工具)
 
 * [adb 输入文本工具](#adb-输入文本工具)
@@ -132,6 +134,18 @@
 * 插件文档：安装成功后重启，即可通过 drawable 或者 mipmap 文件夹进行预览图片。
 
 ![](picture/AndroidDrawablePreview.gif)
+
+#### 代码异味检测插件
+
+* 插件名称：[SonarQube for IDE](https://plugins.jetbrains.com/plugin/7973-sonarqube-for-ide)
+
+* Github：[sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij)
+
+* 下载地址：[点我下载插件](https://github.com/SonarSource/sonarlint-intellij/releases)
+
+* 插件简介：这是一款代码约束插件，当我们的代码不符合规范时，会有相应的警告提示，能够帮助我们在开发中提升代码质量。
+
+![](picture/SonarLint.png)
 
 #### adb 卸载工具
 
