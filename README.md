@@ -245,7 +245,7 @@
 
 * Github：[JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)
 
-* 下载地址：[点我下载插件](plugins/JsonToKotlinClass-3.7.4.zip)
+* 下载地址：[点我下载插件](plugins/JsonToKotlinClass-3.7.7.zip)
 
 * 插件简介：这是一款能够帮助我们将后台返回的 Json 转换成 Kotlin Bean 类中的字段的插件，可极大提升我们的调试接口的效率及准确度。
 
