@@ -127,20 +127,6 @@
 
 ![](picture/Translation.gif)
 
-#### 智能切换输入法
-
-* 插件名称：[SmartInput](https://plugins.jetbrains.com/plugin/20575-smart-input)
-
-* Github：[SmartInput](https://github.com/SmartInput/SmartInput)
-
-* 下载地址：[点我下载插件](plugins/SmartInput-5.1.1.212u223.zip)
-
-* 插件简介：这个插件会根据我们在编码的场景自动切换输入法，例如在写代码的时候切换成英文，写注释的时候切换成中文，敲命令行的时候切换成英文
-
-* 插件文档：打开插件设置有两种方式，方式1：菜单栏->Tools->Smart Input->插件设置，方式2：IDE设置->搜索Smart Input。
-
-![](picture/SmartInput.gif)
-
 #### Drawable 预览插件
 
 * 插件名称：[Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview)
