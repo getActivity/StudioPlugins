@@ -271,7 +271,7 @@
 
 * Github：[intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)
 
-* 下载地址：[点我下载插件](plugins/RainbowBrackets-6.26.zip)
+* 下载地址：[点我下载插件](plugins/RainbowBrackets-2026.2.0.zip)
 
 * 插件简介：这是一款能够增强代码括号的辨识度的插件
 
