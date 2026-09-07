@@ -24,39 +24,6 @@
 
 * 小技巧：如果出现安装不了的情况，并且 Studio 不是这个版本的，可以直接复制插件的名称然后在 Studio 插件在线搜索并下载，Studio 会自动帮你匹配最佳的插件版本。
 
-<details>
-<summary><font size="4"> 更新日志（点击展开）</font></summary>
-
-* 2023 年 8 月 21 日：[<br>更新 TranslationPlugin 插件<br>更新 AndroidDrawablePreview 插件<br>更新 CodeLocatorPlugin 插件<br>更新 JadxClassDecompiler 插件<br>更新 ChineseLanguagePackPlugins 插件<br>移除 NameThatColor 插件](https://github.com/getActivity/StudioPlugins/commit/965af920dc65fe77eedf4c922dd006a69cceb838)
-
-* 2023 年 8 月 20 日：[<br>新增 adb 卸载工具<br>新增 adb 输入工具<br>新增 adb 工具集集合<br>新增 Jadx 反编译插件<br>新增 Color 重命名插件<br>加回 findViewById 插件<br>加回代码预览小窗口插件<br>更新 TranslationPlugin 版本<br>更新 CodeLocator 版本<br>更新 SequenceDiagram 版本<br>更新 GsonFormat 版本<br>更新 JsonToKotlinClass 版本<br>更新 CopyToFinder 版本<br>更新 RainbowBrackets 版本<br>更新 JsonHelper 版本<br>更新 AndroidParcelableCodeGenerator 版本](https://github.com/getActivity/StudioPlugins/commit/9e5362402a16a407df7e92c92b17b744800923bf)
-
-* 2022 年 5 月 16 日：[<br>更新 Markdown 插件<br>优化插件名称以方便搜索](https://github.com/getActivity/StudioPlugins/commit/850d4252dfe6cd2c07354f40d5019ddf9938fa7b)
-
-* 2022 年 5 月 15 日：[<br>新增 Markdown 插件<br>新增 CodeLocator 插件<br>新增 SequenceDiagram 插件<br>新增 JsonHelper 代替 JsonViewer 插件<br>新增 GsonFormat 代替 GsonFormatPlus 插件<br>更新 RainbowBrackets 插件版本<br>更新 TranslationPlugin 插件版本<br>更新 JsonToKotlinClass 插件版本<br>更新 ChineseLanguagePack 插件版本](https://github.com/getActivity/StudioPlugins/commit/97cb2e15946fed3478cf8f4fc2dccb5d9e2b25d2)
-
-* 2021 年 7 月 9 日：[<br>更新彩虹括号插件版本<br>更新 IDEA 中文包插件版本<br>更新 GsonFormatPlus 插件版本<br>更新 JsonToKotlinClass 插件版本](https://github.com/getActivity/StudioPlugins/commit/11a8ecf35572453a32f96dbdc86f118251b43833)
-
-* 2021 年 3 月 28 日：[<br>更新翻译插件版本<br>更新彩虹括号插件版本<br>更新 GsonFormat 插件版本](https://github.com/getActivity/StudioPlugins/commit/3974376360d314bcd0ae6279a2b682610e00bccf)
-
-* 2021 年 3 月 21 日：[<br>新增复制到访达插件<br>更新翻译插件版本<br>移除代码预览小窗口插件<br>添加插件作品 Github 信息](https://github.com/getActivity/StudioPlugins/commit/0207498bf1a5e2f1f645088ffff79c21d03664cb)
-
-* 2020 年 1 月 14 日：[<br>插件适配 Studio 4.1<br>新增 IDEA 中文包插件<br>新增 findViewById 生成插件](https://github.com/getActivity/StudioPlugins/commit/7de069c922d8f93b423ab13490bda6dc6549ce9d)
-
-* 2020 年 8 月 9 日：[<br>更换英文翻译插件<br>新增彩虹括号插件<br>代码预览小窗口插件](https://github.com/getActivity/StudioPlugins/commit/17ff49b9e15337bb79999588651875166e8f5d8a)
-
-* 2020 年 5 月 18 日：[<br>新增远程仓库依赖插件](https://github.com/getActivity/StudioPlugins/commit/f3a21eaa8792c0fd32ab8097077a0b5b90d2b4a4)
-
-* 2020 年 5 月 16 日：[<br>新增远程仓库依赖插件<br>更新 Java 代码约束插件版本]()
-
-* 2020 年 3 月 30 日：[<br>新增 Json 转 Kotlin Bean 插件<br>新增 Json 格式化插件](https://github.com/getActivity/StudioPlugins/commit/0680b8970dd04eeede6ed8f5f4b7799c7a8c1cfb)
-
-* 2020 年 3 月 21 日：[<br>新增一个英文翻译插件](https://github.com/getActivity/StudioPlugins/commit/e14b5c6c5470bce8b43a77f9b89ae19942240f56)
-
-* 2020 年 3 月 14 日：[<br>新增 Java 代码约束插件<br>新增 Drawable 预览插件<br>新增 Json 转 Bean 插件<br>新增 Parcelable 序列化插件](https://github.com/getActivity/StudioPlugins/commit/fd552c014e936cdc6f6044818dd5de983efa89c4)
-
-</details>
-
 #### 插件导航
 
 * [翻译插件](#翻译插件)
