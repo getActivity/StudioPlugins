@@ -171,9 +171,9 @@
 
 * 插件名称：[GoogleLibraryVersionQuerier](https://plugins.jetbrains.com/plugin/14251-google-library-version-querier)
 
-* Github：[GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
+* Gitee：[GoogleLibraryVersionQuerier2](https://gitee.com/lzzzh/google-library-version-querier-2)
 
-* 下载地址：[点我下载插件](plugins/GoogleLibraryVersionQuerier-3.3.zip)
+* 下载地址：[点我下载插件](plugins/GoogleLibraryVersionQuerier2-1.0.1.zip)
 
 * 插件简介：这是一款能帮助你快速添加远程依赖库和查询历史版本的插件。
 
