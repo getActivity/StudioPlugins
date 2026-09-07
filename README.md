@@ -67,6 +67,8 @@
 
 * [代码异味检测插件](#代码异味检测插件)
 
+* [代码 ai 补齐插件](#代码-ai-补齐插件)
+
 * [adb 输入文本工具](#adb-输入文本工具)
 
 * [adb 工具集合插件](#adb-工具集合插件)
@@ -140,6 +142,18 @@
 * 插件简介：这是一款代码约束插件，当我们的代码不符合规范时，会有相应的警告提示，能够帮助我们在开发中提升代码质量。
 
 ![](picture/SonarLint.png)
+
+#### 代码 ai 补齐插件
+
+* 插件名称：[GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot--your-ai-pair-programmer)
+
+* 下载地址：[点我下载插件](https://plugins.jetbrains.com/plugin/17718-github-copilot--your-ai-pair-programmer/versions)
+
+* 插件简介：这是 Github 开发一款代码 ai 自动补齐插件，可帮助提升开发效率。
+
+* 插件介绍：安装成功后，在右下角找到 Copilot 的图标，需要先登录一下账号，建议使用 Github 账号登录，写代码的过程中会自动出现代码补齐的提示，按下 TAB 键则可以采纳这部分代码。
+
+![](picture/GithubCopilot.png)
 
 #### adb 输入文本工具
 
